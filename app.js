@@ -8,7 +8,7 @@ const hotDog = {
     
 };
 
-const photoEl = document.getElementById('photo');
+const photoEl = document.getElementById('photo-1');
     photoEl.src = hotDog.photoUrl;
 const nameEl = document.getElementById('name');
     nameEl.textContent = hotDog.name;
