@@ -1,6 +1,12 @@
 img {
     width: 200px; height: 200px;
 }
-p {
-    font-family: Pacifico;
+div {
+    text-align: center;
+  }
+h1 {
+    font-style: italic;
+    font-size: 10px;
+    font-family: Arial;
+    opacity: .3;
 }
