@@ -8,6 +8,7 @@ const hotDog = {
     weight: '226 Г',
 };
 
+
 const photoEl = document.getElementById('photo-1');
     photoEl.src = hotDog.photoUrl;
 const nameEl = document.getElementById('name');
